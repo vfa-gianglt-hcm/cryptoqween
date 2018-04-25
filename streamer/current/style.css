@@ -1,6 +1,6 @@
 	body {
 		background-color: black;
-		font-size: 17px;
+		font-size: 25px;
 		color: white;
 	}
 
@@ -43,14 +43,14 @@
 	}
 	
 	.pct-up {
-		font-size: 12px;
+		font-size: 20px;
 		color: green;
 		padding-left: 2%;
 		font-weight:bold;
 	}
 
 	.pct-down {
-		font-size: 12px;
+		font-size: 20px;
 		color: red;
 		padding-left: 2%;
 		font-weight:bold;
