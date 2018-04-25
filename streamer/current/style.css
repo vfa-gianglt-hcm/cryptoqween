@@ -1,6 +1,6 @@
 	body {
 		background-color: black;
-		font-size: 25px;
+		font-size: 35px;
 		color: white;
 	}
 
@@ -21,7 +21,7 @@
 	}
 
 	.price {
-		font-size: 25px;
+		font-size: 35px;
 		padding-left:2%;
 	}
 
@@ -43,14 +43,14 @@
 	}
 	
 	.pct-up {
-		font-size: 65px;
+		font-size: 75px;
 		color: green;
 		padding-left: 2%;
 		font-weight:bold;
 	}
 
 	.pct-down {
-		font-size: 65px;
+		font-size: 75px;
 		color: red;
 		padding-left: 2%;
 		font-weight:bold;
