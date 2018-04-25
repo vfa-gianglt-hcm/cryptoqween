@@ -43,14 +43,14 @@
 	}
 	
 	.pct-up {
-		font-size: 65px;
+		font-size: 35px;
 		color: green;
 		padding-left: 2%;
 		font-weight:bold;
 	}
 
 	.pct-down {
-		font-size: 65px;
+		font-size: 35px;
 		color: red;
 		padding-left: 2%;
 		font-weight:bold;
