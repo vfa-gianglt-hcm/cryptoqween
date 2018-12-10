@@ -58,4 +58,9 @@
 
 	.exchange {
 		color: #42f492;
-	} 
+  } 
+  
+  #inner{
+    width: 50%;
+    margin: auto;
+}
